@@ -41,10 +41,10 @@
         "lastName":"Смирнов",
         "phoneNumber":"9215480996"
     },
-    "personSeller":{
+    "seller":{
         "name":"Александр",
         "lastName":"Петров",
-        "sellerType":"UR",
+        "sellerType":"PHYSICAL",
         "inn":"504214222403"
     },
     "buyingObj":{
